@@ -1,0 +1,4 @@
+Painting PicassoDrawing 
+square x: 10 y: 10 s: 30 color: red    
+circle x: 50 y: 80 r: 10 color: green  
+square x: 200 y: 200 s: 100 color: blue
